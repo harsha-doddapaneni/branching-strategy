@@ -8,7 +8,7 @@ Here are some key reasons why having a branching strategy is important:
 * Code Reviews and Collaboration
 * CICD
 
-There are 3 popular branching strategies                                     
+There are 3 popular branching strategies                                      
 
 * Git flow
 * Feature branching
